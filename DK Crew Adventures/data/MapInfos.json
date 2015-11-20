@@ -15,7 +15,7 @@ null,
 {"id":13,"expanded":false,"name":"Test Dungeon","order":14,"parentId":11,"scrollX":709.3333333333334,"scrollY":904},
 {"id":14,"expanded":false,"name":"Bar","order":4,"parentId":3,"scrollX":534,"scrollY":314},
 {"id":15,"expanded":false,"name":"Shop 2","order":5,"parentId":2,"scrollX":1126.2857142857142,"scrollY":636},
-{"id":16,"expanded":true,"name":"Basement 2","order":17,"parentId":4,"scrollX":890.6666666666666,"scrollY":402.6666666666667},
+{"id":16,"expanded":true,"name":"Basement 2","order":17,"parentId":4,"scrollX":880,"scrollY":402.6666666666667},
 {"id":17,"expanded":false,"name":"Basement","order":16,"parentId":6,"scrollX":720,"scrollY":413.3333333333333},
 {"id":18,"expanded":false,"name":"Basement 3","order":15,"parentId":6,"scrollX":720,"scrollY":413.3333333333333}
 ]

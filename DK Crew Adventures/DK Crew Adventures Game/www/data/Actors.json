@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"battlerName":"Josh","characterIndex":0,"characterName":"Josh","classId":5,"equips":[5,0,6,3,0],"faceIndex":0,"faceName":"Josh","traits":[{"code":64,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Josh","nickname":"Josh","note":"","profile":"Main Character."},
+{"id":2,"battlerName":"Tom","characterIndex":0,"characterName":"Tom","classId":6,"equips":[7,0,2,3,4],"faceIndex":0,"faceName":"Tom","traits":[{"code":64,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Tom","nickname":"Birb","note":"","profile":""},
+{"id":3,"battlerName":"Quil","characterIndex":0,"characterName":"Quil","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Quil","traits":[{"code":64,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Quil","nickname":"Brandon't","note":"","profile":""},
+{"id":4,"battlerName":"Dom","characterIndex":0,"characterName":"Dom","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Dom","traits":[{"code":64,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Dom","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Anthony","characterIndex":0,"characterName":"Anthony","classId":8,"equips":[1,1,0,3,0,0],"faceIndex":0,"faceName":"Anthony","traits":[{"code":31,"dataId":8,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Anthony","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Maris","characterIndex":0,"characterName":"Maris","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Maris","traits":[],"initialLevel":1,"maxLevel":99,"name":"Maris","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Jason","characterIndex":0,"characterName":"Jason","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Jason","traits":[{"code":14,"dataId":6,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Jason","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":15,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":16,"battlerName":"Lyra","characterIndex":0,"characterName":"Lyra","classId":10,"equips":[8,0,2,8,4],"faceIndex":0,"faceName":"Lyra","traits":[{"code":64,"dataId":5,"value":1},{"code":52,"dataId":3,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Lyra","nickname":"","note":"","profile":""}
+]
